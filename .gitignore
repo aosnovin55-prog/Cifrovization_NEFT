@@ -1,0 +1,14 @@
+# Out-of-source build and delivery (Solution/)
+Solution/build/
+Solution/pyi_work/
+Solution/artifacts/
+Solution/plots/
+*.db
+
+# Legacy / local
+build/
+dist/
+artifacts/
+__pycache__/
+*.pyc
+.pytest_cache/
